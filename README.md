@@ -2,7 +2,7 @@
 
 ## Description
 
-This repo contains [k6](https://github.com/grafana/k6) scripts for load testing the (demo)[https://github.com/winmicroservices/demo] app.
+This repo contains [k6](https://github.com/grafana/k6) scripts for load testing the [demo](https://github.com/winmicroservices/demo) app.
 
 ## Usage
 
